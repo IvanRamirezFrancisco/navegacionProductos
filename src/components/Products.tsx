@@ -1,4 +1,3 @@
-// src/components/Products.tsx
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { getProductsByCategory } from '../services/api';
